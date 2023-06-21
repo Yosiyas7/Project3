@@ -1,6 +1,4 @@
 import React, { Component } from 'react';
-import FAChevronDown from 'react-icons/lib/md/keyboard-arrow-down';
-import FAMenu from 'react-icons/lib/fa/list-ul';
 import FASearch from 'react-icons/lib/fa/search';
 import MdEject from 'react-icons/lib/md/eject';
 
